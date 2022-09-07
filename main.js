@@ -48,7 +48,7 @@ box4.style.backgroundColor = 'pink'
 box4.style.textAllign = 'center'
 console.log(box4);
 
-let box5 = document.querySelector('.box5');
+let box5 = document.querySelector('.box5')
 
 box5.style.width = '40%'
 box5.style.height = '100%'
