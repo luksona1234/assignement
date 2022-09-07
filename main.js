@@ -32,7 +32,6 @@ let box3 = document.querySelector('.box3');
 
 box3.style.width = '350px'
 box3.style.height = '50px'
-box3.style.border = '3px solid black'
 box3.style.marginLeft = '345px'
 box3.style.marginTop = '9%'
 box3.style.display = 'flex'
