@@ -14,7 +14,7 @@ box.style.display = 'flex'
 box.style.justifyContent = 'space around'
 console.log(box);
 
-let box1 = document.querySelector('.box1');
+let box1 = document.querySelector('.box1')
 
 box1.style.width = '100%'
 box1.style.height = '600px'
