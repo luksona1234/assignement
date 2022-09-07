@@ -25,15 +25,16 @@ let p2 = document.querySelector('.p2');
 
 p2.style.fontSize = '20px'
 p2.style.color = 'white'
-p2.style.marginTop = '9%'
+p2.style.marginTop = '6%'
+p2.style.marginLeft = '20px'
 console.log(p2);
 
 let box3 = document.querySelector('.box3');
 
 box3.style.width = '350px'
 box3.style.height = '50px'
-box3.style.marginLeft = '345px'
-box3.style.marginTop = '9%'
+box3.style.marginLeft = '800px'
+box3.style.marginTop = '5%'
 box3.style.display = 'flex'
 box3.style.justifyContent = 'space between'
 console.log(box3);
