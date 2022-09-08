@@ -25,7 +25,7 @@ let p2 = document.querySelector('.p2');
 
 p2.style.fontSize = '20px'
 p2.style.color = 'white'
-p2.style.marginTop = '6%'
+p2.style.marginTop = '5%'
 p2.style.marginLeft = '20px'
 console.log(p2);
 
