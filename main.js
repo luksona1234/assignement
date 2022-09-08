@@ -19,6 +19,7 @@ let box1 = document.querySelector('.box1')
 box1.style.width = '100%'
 box1.style.height = '600px'
 box1.style.backgroundColor = 'cyan'
+box1.style.position = 'relative'
 console.log(box1);
 
 let p2 = document.querySelector('.p2');
@@ -43,7 +44,7 @@ let box4 = document.querySelector('.box4')
 
 box4.style.width = '40%'
 box4.style.height = '100%'
-box4.style.borderRadius = '100%'
+box4.style.borderRadius = '120px'
 box4.style.backgroundColor = 'pink'
 box4.style.textAllign = 'center'
 console.log(box4);
@@ -52,11 +53,20 @@ let box5 = document.querySelector('.box5')
 
 box5.style.width = '40%'
 box5.style.height = '100%'
-box5.style.borderRadius = '100%'
+box5.style.borderRadius = '120px'
 box5.style.backgroundColor = 'pink'
 box5.style.marginLeft = '65px'
 console.log(box5);
 
+let box6 = document.querySelector('.box6')
+
+box6.style.width = '1000px'
+box6.style.backgroundColor = 'lime'
+box6.style.height = '60px'
+box6.style.marginLeft = '8%'
+box6.style.position = 'absolute'
+box6.style.marginTop = '70px'
+box6.style.borderRadius = '120px'
 
 
 
