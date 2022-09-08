@@ -39,7 +39,7 @@ box3.style.display = 'flex'
 box3.style.justifyContent = 'space between'
 console.log(box3);
 
-let box4 = document.querySelector('.box4');
+let box4 = document.querySelector('.box4')
 
 box4.style.width = '40%'
 box4.style.height = '100%'
