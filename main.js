@@ -62,11 +62,49 @@ let box6 = document.querySelector('.box6')
 
 box6.style.width = '1000px'
 box6.style.backgroundColor = 'lime'
-box6.style.height = '60px'
+box6.style.height = '100px'
 box6.style.marginLeft = '8%'
 box6.style.position = 'absolute'
 box6.style.marginTop = '70px'
 box6.style.borderRadius = '120px'
+console.log(box6);
+
+let p5 = document.querySelector('.p5')
+
+p5.style.fontSize = '30px'
+p5.style.color = 'purple'
+p5.style.marginTop = '5px'
+
+console.log(p5);
+
+let box7 = document.querySelector('.box7')
+
+box7.style.backgroundColor = 'white'
+box7.style.width = '80%'
+box7.style.height = '35%'
+box7.style.marginTop = '-15px'
+
+let inp = document.querySelector('.inp')
+
+inp.style.backgroundColor = 'darkGreen'
+inp.style.width = '70%'
+inp.style.height = '100%'
+inp.style.borderRadius = '20px'
+
+console.log(inp);
+
+let button = document.querySelector('.button')
+
+button.style.width = '10%'
+button.style.height = '100%'
+button.style.borderRadius = '20px'
+button.style.backgroundColor = 'darkGreen'
+
+console.log(button)
+
+
+
+
 
 
 
